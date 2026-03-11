@@ -1,0 +1,9 @@
+fpdf2
+ttkbootstrap
+matplotlib
+requests
+psutil
+urllib3
+beautifulsoup4
+fonttools
+pillow
